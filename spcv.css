@@ -1,0 +1,16 @@
+body{
+  margin: 50px;
+}
+
+hr{
+  width: 880px;
+  float: left;
+}
+
+.headings{
+  color: green;
+}
+
+.title_name{
+  color: blue;
+}
