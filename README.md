@@ -4,7 +4,7 @@ This project is a single-page CV created using only HTML, according to the task 
 
 ## 🔗 View the Live Project
 
-**[Click here to see the project page (live demo)](https://github.com/vladyslavprogrammer/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/blob/main/spcv.html)**
+**[Click here to see the project page (live demo)](https://roadmap.sh/projects/single-page-cv)**
 
 ---
 
